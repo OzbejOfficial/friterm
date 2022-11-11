@@ -157,7 +157,6 @@ Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline"
 };
 
 // FRI je sranje YT diss track
-
 export const frisranje = async (args?: string[]): Promise<string> => {
   return `
     <iframe width="560" height="315" src="https://www.youtube.com/embed/KPlQ1Zsah6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,15 +1,15 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "FRITerm",
+  "name": "FRI x BAE",
+  "ascii": "friterminal",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "email": "info@ozbej.com",
+  "ps1_hostname": "fri_terminal",
+  "ps1_username": "priden_student",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
